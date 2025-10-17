@@ -27,15 +27,13 @@ Esto indica que la **violencia dentro de relaciones conyugales o de convivencia*
 
 ### **Patrón 2:**  
 Cuando la víctima se encuentra **casada o en unión libre**, y el tipo de agresión se clasifica como **física o psicológica**,  
-el **sexo femenino** vuelve a aparecer con el 100% de confianza.  
-Esto refuerza la tendencia de que la violencia más común en mujeres es la **psicológica y física dentro del hogar**.
+el **sexo femenino** vuelve a aparecer con el 100% de confianza. Esto refuerza la tendencia de que la violencia más común en mujeres es la**psicológica y física dentro del hogar**.
 
 ---
 
 ### **Patrón 3:**  
 Las víctimas que **tienen una relación directa con el agresor** (familiares, pareja o convivientes)  
-presentan una **mayor probabilidad (59.8%) de sufrir agresión física o psicológica**.  
-El *lift* superior a 1 (1.12) indica una **correlación significativa** entre la cercanía con el agresor y el tipo de violencia reportada.
+presentan una **mayor probabilidad (59.8%) de sufrir agresión física o psicológica**. El *lift* superior a 1 (1.12) indica una **correlación significativa** entre la cercanía con el agresor y el tipo de violencia reportada.
 
 ---
 
